@@ -30,5 +30,7 @@ A binding protein is any protein that acts as an agent to bind two or more molec
 - Accept previous output as one of the inputs, to simulate “memory”
 - Better for sequence learning
 ## What we do in this project
-### First part
-Doing a clustering in the selected 23 Resveratrol's binding protein. clustering means 
+### First Part
+Doing a clustering in the selected 23 Resveratrol's binding protein. clustering means devide the original data into several groups without knowing them before, it's just different from classification.
+### Second Part
+put 2 stream of data, ones are Resveratrol's binding proteins, the others are the DNA binding proteins. then use machine learning to learn the features of these two stream of data, and finally we can use this model to do the protein prediction.
