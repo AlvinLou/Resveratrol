@@ -10,3 +10,25 @@ Resveratrol is a stilbenoid, a type of natural phenol and a phytoalexin produced
 - 1990s, Dipak Kumar Das in University of Connecticut came up with a theory that the Resveratrol in Grape wine explained French Paradox.
 - 2012, University of Connecticut dismissed Professor Dipak K. Das due to the fraud in the study resveratrol
 > **So that is somehow the most direct reason why this substance is still so hot even today.**
+## Binding protein
+A binding protein is any protein that acts as an agent to bind two or more molecules together.
+### DNA binding protein
+- Proteins composed of DNA-binding domains 
+- have a specific or general affinity for either single or double stranded DNA.
+- Generally in the major groove if the binding is sequence-specific – as with transcription factors that regulate expression of genes, and nucleases that cleave DNA between nucleotides. 
+- Can also bind DNA non-specifically, such as polymerases and histones. 
+- About 6%~7% are DNA binding protein
+## ML models
+### Neural Network
+- Simulate creatures’ neuron
+- Accept multiple inputs with different weight and output signal to other neurons
+- Better for feature learning
+- Use functions like Sigmoid to simulate signal strength
+### LSTM
+- LSTM stands for Long Short-Term Memory
+- LSTM is one of the models of Recurrent Neural Network
+- Accept previous output as one of the inputs, to simulate “memory”
+- Better for sequence learning
+## What we do in this project
+### First part
+Doing a clustering in the selected 23 Resveratrol's binding protein. clustering means 
